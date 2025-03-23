@@ -43,17 +43,32 @@
             color: white;
             text-decoration: none;
         }
+        nav {
+            background: #0073e6;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+    </nav>
     <div class="container">
         <h1>📊 Meu Portfólio de Power BI</h1>
         <p>Bem-vindo ao meu portfólio de projetos em Power BI! Aqui você encontrará algumas das minhas análises e dashboards interativos.</p>
         
-        <h2>🚀 Sobre Mim</h2>
+        <h2 id="sobre">🚀 Sobre Mim</h2>
         <p>Sou um entusiasta de dados apaixonado por transformar informações em insights acionáveis. Utilizo Power BI para criar dashboards intuitivos e eficientes.</p>
         
-        <h2>📂 Meus Projetos</h2>
+        <h2 id="projetos">📂 Meus Projetos</h2>
         
         <div class="projeto">
             <h3>📌 Análise de Vendas</h3>
@@ -73,7 +88,7 @@
             <img src="projeto3/captura.png" alt="Dashboard RH">
         </div>
         
-        <div class="contato">
+        <div id="contato" class="contato">
             <h3>📬 Contato</h3>
             <p>Se quiser saber mais sobre os projetos ou trocar ideias, fique à vontade para me contatar!</p>
             <p>Email: <a href="mailto:seuemail@example.com">seuemail@example.com</a></p>
