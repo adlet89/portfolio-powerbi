@@ -29,5 +29,5 @@ Sou um entusiasta de dados apaixonado por transformar informações em insights 
 ## 📬 Contato
 Se quiser saber mais sobre os projetos ou trocar ideias, fique à vontade para me contatar!
 
-- 📧 Email: (alex113santos@Outlook.com)
-- 🔗 LinkedIn:(https://www.linkedin.com/in/alex-santos-analista/)
+- 📧 Email: alex113santos@Outlook.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/alex-santos-analista/
